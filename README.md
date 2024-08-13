@@ -31,29 +31,27 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/@GTECHTUBE1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/whyvineet/">
+    <img src="https://img.shields.io/badge/-VineetKumar-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://www.gmail.com/in/gopajilab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://github.com/whyvineet">
+    <img src="https://img.shields.io/github/followers/whyvineet?label=Follow&style=social" alt="GitHub followers">
   </a>
-  <a href="https://www.linkedin.com/in/gopal-gupta-993471311/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/whyvineet">
+    <img src="https://img.shields.io/badge/-@whyvineet-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="https://www.instagram.com/gowith_gopu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.geeksforgeeks.org/user/whyvineet/">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white" alt="Geeks for Geeks Badge">
   </a>
-  <a href="https://codepen.io/Gopaljilab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  <a href="https://leetcode.com/u/whyvineet/">
+    <img src="https://img.shields.io/badge/-Leetcode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="Leetcode Badge">
   </a>
-  <a href="https://codesandbox.io/u/gopaljilab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
+  <a href="https://www.hackerrank.com/profile/whyvineet">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="HackerRank Badge">
   </a>
-  <a href="https://www.hackerrank.com/profile/gopaljilab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=whyvineet&color=brightgreen" alt="Profile Views">
+</p>
 
 ###
 
