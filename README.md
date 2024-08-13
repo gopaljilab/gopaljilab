@@ -27,6 +27,8 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
