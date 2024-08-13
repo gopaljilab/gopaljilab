@@ -44,7 +44,7 @@
 
 <div align="left">
   <a href="https://github.com/gopaljilab">
-    <img src="https://github-readme-stats.vercel.app/api?username=whyvineet&show_icons=true&theme=radical" alt="Vineet Kumar's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=whyvineet&show_icons=true&theme=radical" alt="Gopal Gupta's GitHub stats" />
   </a>
 </div>
 
