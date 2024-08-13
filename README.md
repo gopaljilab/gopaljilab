@@ -40,6 +40,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopaljilab&label=Profile%20views&color=0e75b6&style=flat" alt="gopaljilab" /> </p>
 
+### 🔥 Featured Projects
+
+- **Project 01: [Portfolio](https://github.com/gopaljilab/portfolio)**
+
+  - 🛠 **Tech Stack**: HTML, CSS, JavaScript
+  - 🌟 **Description**: Developed a static portfolio website using HTML, CSS, and JavaScript to showcase my skills and projects. It features an overview of my experience, projects, and contact information.
+
+- **Project 02: [QueryGenie](https://github.com/gopaljilab/OmRestaurant)**
+
+  - 🛠 **Tech Stack**: Sql, Bootstrap
+  - 🌟 **Description**: .
+
+---
+
+<h3 align="center">📫 How to reach me: <a href="mailto:gopaljilab@outlook.com">Gopaljilab@outlook.com</a></h3>
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="left">
@@ -54,4 +72,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gopaljilab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gopaljilab" /></a></p><br><br>
 
+### ⚡ Fun Fact
+
+- I love to explore new technologies and leverage them to solve real-life problems. You will find me playing Chess or Football when I am not coding.
+
+---
 
