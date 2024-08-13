@@ -47,7 +47,7 @@
   - 🛠 **Tech Stack**: HTML, CSS, JavaScript
   - 🌟 **Description**: Developed a static portfolio website using HTML, CSS, and JavaScript to showcase my skills and projects. It features an overview of my experience, projects, and contact information.
 
-- **Project 02: [QueryGenie](https://github.com/gopaljilab/OmRestaurant)**
+- **Project 02: [OmRestaurant](https://github.com/gopaljilab/OmRestaurant)**
 
   - 🛠 **Tech Stack**: Sql, Bootstrap
   - 🌟 **Description**: .
@@ -74,7 +74,7 @@
 
 ### ⚡ Fun Fact
 
-- I love to explore new technologies and leverage them to solve real-life problems. You will find me playing Chess or Football when I am not coding.
+- I love to explore new technologies and leverage them to solve real-life problems. You will find me playing Cricket or Volleyball when I am not coding.
 
 ---
 
