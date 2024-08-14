@@ -44,8 +44,8 @@
 
 - **Project 02: [OmRestaurant](https://github.com/gopaljilab/OmRestaurant)**
 
-  - 🛠 **Tech Stack**: Sql, Bootstrap
-  - 🌟 **Description**: .
+  - 🛠 **Tech Stack**: Sql, Bootstrap, php
+  - 🌟 **Description**: OmRestaurant is a food ordering web application that allows customers to browse through a variety of dishes, place orders, and have them delivered to their doorstep. The website also includes features like user registration, contact forms, and newsletter subscription.
 
 ---
 
