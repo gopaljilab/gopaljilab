@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gopa Gupta</h1>
+<h1 align="center">Hi 👋, I'm Gopal Gupta</h1>
 <h3 align="center">A passionate frontend developer, Java Devloper and Software Engineer</h3>
 
 - 🔭 I’m currently working on **SUBMEDEV.**
