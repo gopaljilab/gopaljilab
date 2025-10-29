@@ -32,7 +32,7 @@
 
 ### 🔥 Featured Projects
 
-- **[NVCET-Blockchain-Certification-System]([https://github.com/gopaljilab/portfolio](https://github.com/gopaljilab/NVCET-Blockchain-Certification-System))**  
+- **[NVCET-Blockchain-Certification-System](https://github.com/gopaljilab/NVCET-Blockchain-Certification-System)**  
   🛠 **Tech Stack**: HTML, Bootstrap, JavaScript, ReactJs, ExpressJs  
   🌟 **Description**:A NVCET Blockchain Certification System where recuirter can verify student ceritficate and university upload that certification.
 
