@@ -61,10 +61,7 @@
   <img src="https://streak-stats.demolab.com?user=gopaljilab&theme=radical" height="180" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gopaljilab&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta2125&layout=compact&theme=tokyonight&langs_count=6" alt="Harsh Gupta's Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopaljilab&layout=compact&theme=tokyonight&langs_count=6" alt="Harsh Gupta's Most Used Languages" />
 </div>
 
 ---
