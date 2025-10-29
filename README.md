@@ -32,13 +32,18 @@
 
 ### 🔥 Featured Projects
 
-- **[Portfolio](https://github.com/gopaljilab/portfolio)**  
-  🛠 **Tech Stack**: HTML, CSS, JavaScript  
-  🌟 **Description**: A personal portfolio website to showcase my skills, projects, and contact info.  
+- **[NVCET-Blockchain-Certification-System]([https://github.com/gopaljilab/portfolio](https://github.com/gopaljilab/NVCET-Blockchain-Certification-System))**  
+  🛠 **Tech Stack**: HTML, Bootstrap, JavaScript, ReactJs, ExpressJs  
+  🌟 **Description**:A NVCET Blockchain Certification System where recuirter can verify student ceritficate and university upload that certification.
 
 - **[OmRestaurant](https://github.com/gopaljilab/OmRestaurant)**  
   🛠 **Tech Stack**: SQL, Bootstrap, PHP  
-  🌟 **Description**: A food ordering web app where users can browse dishes, place orders, and register/login. Includes contact form & newsletter subscription.  
+  🌟 **Description**: A food ordering web app where users can browse dishes, place orders, and register/login. Includes contact form & newsletter subscription.
+
+- **[Portfolio](https://github.com/gopaljilab/portfolio)**  
+  🛠 **Tech Stack**: HTML, CSS, JavaScript  
+  🌟 **Description**: A personal portfolio website to showcase my skills, projects, and contact info.  
+  
 
 ---
 
