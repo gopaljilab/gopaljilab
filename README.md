@@ -57,7 +57,7 @@
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gopaljilab&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopaljilab&theme=radical" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gopaljilab&theme=radical" height="180" alt="GitHub Streak" />
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gopaljilab&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
