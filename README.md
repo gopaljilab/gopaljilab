@@ -17,11 +17,24 @@ Currently focused on strengthening my Java, backend, and full-stack development 
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:gopaljilab@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gopal-gupta-993471311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/gopaljilab"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/gopaljilab"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@GTECHTUBE1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:gopaljilab@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gopal-gupta-993471311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/gopaljilab">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/gopaljilab">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://codolio.com/profile/gopaljilab">
+    <img src="https://img.shields.io/badge/Codolio-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@GTECHTUBE1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -39,24 +52,21 @@ Currently focused on strengthening my Java, backend, and full-stack development 
 
 ## 🔥 Featured Projects
 
-### 🧾 NVCET Blockchain Certification System
-🔗 https://github.com/gopaljilab/NVCET-Blockchain-Certification-System  
+### 🧾 [NVCET Blockchain Certification System](https://github.com/gopaljilab/NVCET-Blockchain-Certification-System)
 **Tech Stack:** HTML, Bootstrap, JavaScript, React, Express.js  
 **Description:**  
 A blockchain-based certification system where universities upload student certificates and recruiters can securely verify their authenticity.
 
 ---
 
-### 🍽️ OmRestaurant
-🔗 https://github.com/gopaljilab/OmRestaurant  
+### 🍽️ [OmRestaurant](https://github.com/gopaljilab/OmRestaurant)
 **Tech Stack:** PHP, SQL, Bootstrap  
 **Description:**  
 A food ordering web application that allows users to browse dishes, place orders, register/login, and subscribe via newsletter and contact forms.
 
 ---
 
-### 🌐 Personal Portfolio
-🔗 https://github.com/gopaljilab/portfolio  
+### 🌐 [Personal Portfolio](https://github.com/gopaljilab/portfolio)
 **Tech Stack:** HTML, CSS, JavaScript  
 **Description:**  
 A responsive personal portfolio showcasing my skills, projects, and contact information.
