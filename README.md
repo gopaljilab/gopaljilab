@@ -5,7 +5,6 @@
 I enjoy building clean, user-focused web applications and writing reliable backend logic.
 Currently focused on strengthening my Java, backend, and full-stack development skills.
 </p>
-
 ---
 
 ## 🌱 About Me
