@@ -11,7 +11,7 @@ Currently focused on strengthening my Java, backend, and full-stack development 
 ## 🌱 About Me
 - 🔭 Working on **Java, Spring Boot & Full-Stack Development**
 - 💡 Interested in **problem-solving, backend systems, and scalable applications**
-- ⚡ Fun fact: When I’m not coding, I enjoy playing **Cricket 🏏** and **Volleyball 🏐**
+- ⚡ Fun fact: When I’m not coding, I enjoy playing **Cricket 🏏, Chess ** and **Volleyball 🏐**
 
 ---
 
