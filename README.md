@@ -89,7 +89,7 @@ A responsive personal portfolio showcasing my skills, projects, and contact info
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **150+ problems** on LeetCode
+- ✅ Solved **200+ problems** on LeetCode
 - 💼 Completed **Java Developer Internship**
 - 🚀 Built multiple **Frontend & Full-Stack Projects**
 - 📈 Actively improving **DSA, Java, and backend skills**
