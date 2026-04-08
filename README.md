@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopal Gupta</h1>
-<h3 align="center">Java FullStack Developer | Frontend Developer | Aspiring Full-Stack Engineer </h3>
+<h3 align="center">Java FullStack Developer  | Frontend Developer | Aspiring Full-Stack Engineer </h3>
 
 <p align="center">
 I enjoy building clean, user-focused web applications and writing reliable backend logic.
