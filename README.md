@@ -99,7 +99,7 @@ A responsive personal portfolio showcasing my skills, projects, and contact info
 ## 💼 What I’m Looking For
 - Java Developer / Full-Stack Developer roles  
 - Internship or entry-level software opportunities  
-- Open to learning **Spring Boot, REST APIs, and backend systems**
+- Open to learning **Spring Boot, REST APIs, and backend system**
 
 ---
 
