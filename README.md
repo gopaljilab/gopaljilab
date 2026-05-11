@@ -3,7 +3,7 @@
 
 <p align="center">
 I enjoy building clean, user-focused web applications and writing reliable backend logic.
-Currently focused on strengthening my UI, Java, hh backend, and full-stack development skills.
+Currently focused on strengthening my UI, Java, backend, and full-stack development skills.
 </p>
 
 ---
