@@ -2,7 +2,7 @@
 <h3 align="center">Java FullStack Developer  | Frontend Developer | Aspiring Full-Stack Engineer </h3>
 
 <p align="center">
-I enjoy building clean, user-focused web applications and writing reliable backend logic.
+I enjoy building clean,user-focused web applications and writing reliable backend logic.
 Currently focused on strengthening my UI, Java, backend, and full-stack development skills.
 </p>
 
