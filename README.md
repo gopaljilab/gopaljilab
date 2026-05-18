@@ -9,7 +9,7 @@ Currently focused on strengthening my UI, Java, backend, and full-stack developm
 ---
 
 ## 🌱 About Me
-- 🔭 Working on **AWS, Java, Spring Boot &  Full-Stack Development**
+- 🔭 Working on **AWS, Java, Spring Boot & Full-Stack Development**
 - 💡 Interested in **problem-solving, backend systems, and scalable applications**
 - ⚡ Fun fact: When I’m not coding, I enjoy playing **Cricket 🏏 ** Chess ♟️ ** and **Volleyball 🏐**
 
