@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gopal Gupta</h1>
+<h1 align="center">Hi 👋, I'm Gopal Gupta </h1>
 <h3 align="center">Java Full-Stack Developer | Frontend Specialist | Aspiring Software Engineer</h3>
 
 <p align="center">
